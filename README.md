@@ -12,3 +12,7 @@
    2.1 2017CloudIDE-Sales-Deck(v0.2).pptx from my foxmail
    
    2.2 Q&A
+
+### 3. Code Review
+   3.1 What/Why/How
+   3.2 Demo of Gerrit/Gitlab/Github/Phabricator
