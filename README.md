@@ -30,10 +30,12 @@
    Lightweight reviews are often conducted as part of the normal development process:
 
 Over-the-shoulder – one developer looks over the author's shoulder as the latter walks through the code.
+
 Email pass-around – source code management system emails code to reviewers automatically after checkin is made.
+
 Pair programming – two authors develop code together at the same workstation, as it is common in Extreme Programming.
+
 **Tool-assisted code review** – authors and reviewers use software tools, informal ones such as pastebins and IRC, or specialized tools designed for peer code review.
-   
    
    3.2 Demo of [Gerrit](https://android-review.googlesource.com/#/c/349294/)/Gitlab/[Github](https://github.com/sonicning/HelloWorld/pull/3)/[Phabricator](https://phabricator.wikimedia.org/D592)
    
