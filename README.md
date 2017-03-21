@@ -17,7 +17,7 @@
 
    3.1 What/Why/How
    
-   3.2 Demo of Gerrit/Gitlab/Github/Phabricator
+   3.2 Demo of [Gerrit](https://android-review.googlesource.com/#/c/349294/)/Gitlab/[Github](https://github.com/sonicning/HelloWorld/pull/3)/[Phabricator](https://phabricator.wikimedia.org/D592)
    
    3.3 [Code Review 程序员的寄望与哀伤](http://www.cnblogs.com/mindwind/p/5639008.html)
    
