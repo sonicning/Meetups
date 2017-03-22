@@ -23,9 +23,9 @@
    
    代码的系统检查
    
-   开发阶段，减少bug，提高代码质量，提高开发者编码能力
+   开发阶段，减少bug，提高代码质量，共享最佳实践，鼓励重构/简洁/重用，减少浪费，提高开发者编码能力，减少软件周期，降低测试工作量
    
-   形式多样：结对编程，非正式浏览（Over-the-shoulder），原始的email pass-around，**Tool-assisted code review**
+   形式多样：结对编程，非正式浏览（Over-the-shoulder），原始的email pass-around，**Tool-assisted code review**
    
    3.1.2 Why
    
