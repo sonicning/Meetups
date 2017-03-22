@@ -30,9 +30,7 @@
    3.1.2 Why
    
    The purpose of a code review is for someone other than the programmer to critically go through the code of a module to ensure that it meets the functional and design specifications, is wellwritten and robust. An incidental benefit is that the reviewer may learn some new programming techniques, and more people in the team become familiar with the module. The reviewer should not try to fix any bugs or improve the code. S/he should merely inform the programmer about potential bugs and possible improvements. The responsibility for actually making the changes and testing them lies with the programmer.
-   
-   CodeReview - main workflow
-   
+   
    Reviewer批判性浏览代码，提供检视意见，而不是直接修改代码；Developer按照意见和建议，修改并测试代码。
    
    3.1.3 How
@@ -46,6 +44,10 @@
    Pair programming – two authors develop code together at the same workstation, as it is common in Extreme Programming.
    
    **Tool-assisted code review** – authors and reviewers use software tools, informal ones such as pastebins and IRC, or specialized tools designed for peer code review.
+   
+   [CodeReview Workflow](https://www.processon.com/view/link/58d21d0fe4b09ea85da265b7) 密码：标题少一个s，第一个字母小写
+   
+   [代码检视工作流](https://www.processon.com/view/link/58d1efe2e4b0124e685e7246) 密码：标题少一个s，第一个字母小写
    
    3.2 Demo of Tools [Gerrit](https://android-review.googlesource.com/#/c/349294/)/Gitlab/[Github](https://github.com/sonicning/HelloWorld/pull/3)/[Phabricator](https://phabricator.wikimedia.org/D592)
    
