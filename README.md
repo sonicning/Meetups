@@ -23,7 +23,7 @@
    
    代码的系统检查
    
-   开发阶段，减少bug，提高代码质量
+   开发阶段，减少bug，提高代码质量,提高开发者编码能力
    
    形式多样：结对编程，非正式浏览（Over-the-shoulder），原始的email pass-around，**Tool-assisted code review**
    
